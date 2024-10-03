@@ -15,6 +15,6 @@ The goal of this project is to predict whether a student will secure a placement
 + Not placed students: 0.93
 
 **Recall:**
-Placed students: 0.95
-Not placed students: 0.93
-F1-Score: 0.94 for both classes
++ Placed students: 0.95
++ Not placed students: 0.93
++ F1-Score: 0.94 for both classes
